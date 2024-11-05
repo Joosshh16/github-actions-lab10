@@ -3,6 +3,7 @@ name: Issues (Script Injection Example)
   issues:
     types:
       - opened
+      
 jobs:
   issues-job:
     runs-on: ubuntu-latest
